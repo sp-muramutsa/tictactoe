@@ -27,9 +27,10 @@ A graphical Tic-Tac-Toe game built with Pygame, featuring an AI opponent using t
 
 ```bash
 pip install -r requirements.txt
-Usage
-Run the game with:
 ```
+
+## Usage
+Run the game with:
 
 ```bash
 python runner.py
